@@ -1,0 +1,29 @@
+Alcance
+
+1.La biblioteca debe permitir registrar libros.
+
+2.Los libros deben tener: Título, Autor, Ciencia, Cantidad de Páginas.
+
+3.La biblioteca debe organizar los libros en Estantes de acuerdo 
+a las siguientes ciencias: Química, Matemáticas, Geología, Astronomía, Biología y Medicina.
+
+4.Un estante solo puede contener un máximo de 10 libros, el onceavo libro debe guardarse en un segundo estante, 
+por ejemplo: Química B, sabiendo que el estante lleno es: Química A. 
+
+5.Los libros se pueden agregar, modificar y eliminar.
+
+6.La biblioteca me permite vaciar estantes.
+
+7.La biblioteca me permite saber el total de libros de la biblioteca y el total de libros por ciencia.
+
+8.La biblioteca me permite ver todos los libros que hay disponibles y en qué estante están ubicados.
+
+9.La biblioteca me permite ver los libros de una Ciencia específica.
+
+10.La biblioteca me permite buscar un libro por su nombre y me dice en qué estante está ubicado.
+
+Entregar:
+
+Diagrama UML
+Programa de Consola Hecho en Java.
+El código debe estar fundamentado en OOP.
